@@ -121,11 +121,11 @@ span {
 }
 .hero {
     background-image: url("hero_image.jpg");
-    height: 600px;
+    height: 300px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     background-size: cover;
 }
 .hero-msg {
